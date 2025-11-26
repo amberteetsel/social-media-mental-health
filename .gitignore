@@ -1,5 +1,6 @@
 # Checkpoints
 .ipynb_checkpoints/
+.DS_Store
 
 # History files
 .Rhistory
